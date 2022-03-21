@@ -1,8 +1,8 @@
 {
-    "name": "mvc-framework/core",
+    "name": "php-mvc/core",
     "autoload": {
         "psr-4": {
-            "MvcFramework\\Core\\": "."
+            "PhpMvc\\Core\\": "."
         }
     },
     "authors": [
