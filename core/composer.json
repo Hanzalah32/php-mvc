@@ -1,0 +1,15 @@
+{
+    "name": "mvc-framework/core",
+    "autoload": {
+        "psr-4": {
+            "MvcFramework\\Core\\": "."
+        }
+    },
+    "authors": [
+        {
+            "name": "Hanzalah",
+            "email": "hanzalah.web.intern@gmail.com"
+        }
+    ],
+    "require": {}
+}

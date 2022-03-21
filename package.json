@@ -1,0 +1,23 @@
+{
+  "name": "mvcframework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanzalah456/mvc-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanzalah456/mvc-framework/issues"
+  },
+  "homepage": "https://github.com/hanzalah456/mvc-framework#readme",
+  "dependencies": {
+    "laravel-mix": "^6.0.43"
+  }
+}

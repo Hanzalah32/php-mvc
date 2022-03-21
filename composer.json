@@ -1,0 +1,12 @@
+{
+    "name": "cd/core",
+    "description": "\u001b[Ac",
+    "autoload": {
+        "psr-4": {
+            "Cd\\Core\\": "src/"
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
