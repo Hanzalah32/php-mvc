@@ -11,5 +11,7 @@
             "email": "hanzalah.web.intern@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.0"
+    }
 }
